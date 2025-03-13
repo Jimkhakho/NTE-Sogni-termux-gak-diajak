@@ -12,6 +12,7 @@ Fill your proxy.txt if you want using a proxy
 nano proxy.txt 
 
 example
+
 user-name:pass@ip:port
 
 user-name:pass@ip:port
