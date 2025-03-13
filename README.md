@@ -1,7 +1,7 @@
 # NTE-Sogni PC ONLY
 Full tutorial
 
-git clone https://github.com/Svz1404/NTE-Sogni.git
+git clone https://github.com/Jimkhakho/NTE-Sogni-termux-gak-diajak.git
 
 cd NTE-Sogni
 
