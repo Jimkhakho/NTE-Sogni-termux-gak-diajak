@@ -13,9 +13,13 @@ nano proxy.txt
 
 example
 user-name:pass@ip:port
+
 user-name:pass@ip:port
+
 user-name:pass@ip:port
+
 user-name:pass@ip:port
+
 user-name:pass@ip:port
 
 node Ref.js
